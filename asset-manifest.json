@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/seriouswill/todolist/static/css/main.2fe0dad1.chunk.css",
+    "main.js": "/seriouswill/todolist/static/js/main.729f727c.chunk.js",
+    "main.js.map": "/seriouswill/todolist/static/js/main.729f727c.chunk.js.map",
+    "runtime-main.js": "/seriouswill/todolist/static/js/runtime-main.378ac1ef.js",
+    "runtime-main.js.map": "/seriouswill/todolist/static/js/runtime-main.378ac1ef.js.map",
+    "static/js/2.5d67413f.chunk.js": "/seriouswill/todolist/static/js/2.5d67413f.chunk.js",
+    "static/js/2.5d67413f.chunk.js.map": "/seriouswill/todolist/static/js/2.5d67413f.chunk.js.map",
+    "index.html": "/seriouswill/todolist/index.html",
+    "static/css/main.2fe0dad1.chunk.css.map": "/seriouswill/todolist/static/css/main.2fe0dad1.chunk.css.map",
+    "static/js/2.5d67413f.chunk.js.LICENSE.txt": "/seriouswill/todolist/static/js/2.5d67413f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378ac1ef.js",
+    "static/js/2.5d67413f.chunk.js",
+    "static/css/main.2fe0dad1.chunk.css",
+    "static/js/main.729f727c.chunk.js"
+  ]
+}
